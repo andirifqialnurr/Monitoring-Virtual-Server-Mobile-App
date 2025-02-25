@@ -1,0 +1,28 @@
+com.aran.shamo.app-lifecycle-runtime-2.7.0-0 C:\Users\andir\.gradle\caches\transforms-4\02cbada8abd7e7be02a2da1b14da9817\transformed\lifecycle-runtime-2.7.0\res
+com.aran.shamo.app-jetified-annotation-experimental-1.4.0-1 C:\Users\andir\.gradle\caches\transforms-4\066ecb15413b58bfc5d84977c813103c\transformed\jetified-annotation-experimental-1.4.0\res
+com.aran.shamo.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-2 C:\Users\andir\.gradle\caches\transforms-4\18c04f17a5bbe80d43daf3890163ff17\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.aran.shamo.app-jetified-activity-1.8.1-3 C:\Users\andir\.gradle\caches\transforms-4\191f2d7f8e210bdc3cc33dab419dff52\transformed\jetified-activity-1.8.1\res
+com.aran.shamo.app-fragment-1.7.1-4 C:\Users\andir\.gradle\caches\transforms-4\213a4889b96b3f1db5e98d314cf1f63e\transformed\fragment-1.7.1\res
+com.aran.shamo.app-jetified-window-1.2.0-5 C:\Users\andir\.gradle\caches\transforms-4\29b10567f7a14b18f36ba2f99b5ab17b\transformed\jetified-window-1.2.0\res
+com.aran.shamo.app-jetified-savedstate-1.2.1-6 C:\Users\andir\.gradle\caches\transforms-4\32e121465e98cb895aa03f48f68f40b6\transformed\jetified-savedstate-1.2.1\res
+com.aran.shamo.app-jetified-lifecycle-process-2.7.0-7 C:\Users\andir\.gradle\caches\transforms-4\3345d621fb89f694ee822c3982aa5af1\transformed\jetified-lifecycle-process-2.7.0\res
+com.aran.shamo.app-core-1.13.1-8 C:\Users\andir\.gradle\caches\transforms-4\42e986d1d97385b4a6c3092303e2dec4\transformed\core-1.13.1\res
+com.aran.shamo.app-jetified-lifecycle-livedata-core-ktx-2.7.0-9 C:\Users\andir\.gradle\caches\transforms-4\7cdf75ee20bec08040771ea5ea216898\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.aran.shamo.app-core-runtime-2.2.0-10 C:\Users\andir\.gradle\caches\transforms-4\952bb125c093e50d23bc53349b2a3662\transformed\core-runtime-2.2.0\res
+com.aran.shamo.app-lifecycle-livedata-2.7.0-11 C:\Users\andir\.gradle\caches\transforms-4\96aa59ddd933fb93678de0ccf006e2c7\transformed\lifecycle-livedata-2.7.0\res
+com.aran.shamo.app-jetified-core-1.0.0-12 C:\Users\andir\.gradle\caches\transforms-4\98bbf068ceba33a8fc6bdccd159c2a5a\transformed\jetified-core-1.0.0\res
+com.aran.shamo.app-lifecycle-livedata-core-2.7.0-13 C:\Users\andir\.gradle\caches\transforms-4\9a33af045da30d4463a654a28a78ba60\transformed\lifecycle-livedata-core-2.7.0\res
+com.aran.shamo.app-jetified-core-ktx-1.13.1-14 C:\Users\andir\.gradle\caches\transforms-4\9b615225ef6cb4a8351e00008e190e97\transformed\jetified-core-ktx-1.13.1\res
+com.aran.shamo.app-jetified-window-java-1.2.0-15 C:\Users\andir\.gradle\caches\transforms-4\ae9165258c54d159fb93f6f86871c405\transformed\jetified-window-java-1.2.0\res
+com.aran.shamo.app-lifecycle-viewmodel-2.7.0-16 C:\Users\andir\.gradle\caches\transforms-4\b5c6178a849d75e7dd5ce8e9aa0c1d8c\transformed\lifecycle-viewmodel-2.7.0\res
+com.aran.shamo.app-jetified-tracing-1.2.0-17 C:\Users\andir\.gradle\caches\transforms-4\cf796b51a79bfa1ca7d73fa083f31c83\transformed\jetified-tracing-1.2.0\res
+com.aran.shamo.app-jetified-profileinstaller-1.3.1-18 C:\Users\andir\.gradle\caches\transforms-4\d31a29c2dc56dace04b9e8b8983f47cd\transformed\jetified-profileinstaller-1.3.1\res
+com.aran.shamo.app-jetified-startup-runtime-1.1.1-19 C:\Users\andir\.gradle\caches\transforms-4\fbdc725d9e9556225e52ed0315b1ae71\transformed\jetified-startup-runtime-1.1.1\res
+com.aran.shamo.app-debug-20 D:\T A\My-Server-Monitoring-App-main\android\app\src\debug\res
+com.aran.shamo.app-main-21 D:\T A\My-Server-Monitoring-App-main\android\app\src\main\res
+com.aran.shamo.app-pngs-22 D:\T A\My-Server-Monitoring-App-main\build\app\generated\res\pngs\debug
+com.aran.shamo.app-resValues-23 D:\T A\My-Server-Monitoring-App-main\build\app\generated\res\resValues\debug
+com.aran.shamo.app-packageDebugResources-24 D:\T A\My-Server-Monitoring-App-main\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aran.shamo.app-packageDebugResources-25 D:\T A\My-Server-Monitoring-App-main\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aran.shamo.app-debug-26 D:\T A\My-Server-Monitoring-App-main\build\app\intermediates\merged_res\debug\mergeDebugResources
+com.aran.shamo.app-debug-27 D:\T A\My-Server-Monitoring-App-main\build\path_provider_android\intermediates\packaged_res\debug\packageDebugResources

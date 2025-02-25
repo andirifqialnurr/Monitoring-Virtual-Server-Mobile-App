@@ -1,0 +1,10 @@
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/runner/CMakeFiles/shoes_app.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/T A/My-Server-Monitoring-App-main/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
