@@ -1,5 +1,7 @@
 # Aplikasi Monitoring Sumber Daya Virtual Server Berbasis Android
 
+<img src="Andi%20Rifqial%20Nur%20-%20Poster.jpg" alt="Poster arsitektur aplikasi monitoring sumber daya virtual server berbasis Android" width="100%" />
+
 Project ini dibangun dengan basis flutter pada mobile apps nya. Adapun untuk API yang digunakan adalah Python dengan framework Flask. Data yang dimonitoring adalah virtual server yang dibuat didalam proxmox yang mana proxmox juga menyediakan Endpoint. Dari Endpoint tersebut API mengambil data lalu melemparnya sebagai response yang kemudian di tangkap oleh aplikasi mobile untuk di atur penggunaan datanya.
 
 ## Getting Started
